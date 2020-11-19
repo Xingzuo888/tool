@@ -1,8 +1,7 @@
-package com.nextclass.ai.folder.utils.utils
+package com.tool.utils
 
 import android.os.Environment
 import android.util.Log
-import com.tool.utils.MD5
 import java.io.*
 
 /**
