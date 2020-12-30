@@ -1,2 +1,5 @@
+include ':libexoplayer'
+include ':libnetdisc'
+include ':libcommon'
 include ':app'
 rootProject.name = "Tool"

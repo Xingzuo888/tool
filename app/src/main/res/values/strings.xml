@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Tool</string>
+    <string name="picture_upload_path">upload</string>
 </resources>
